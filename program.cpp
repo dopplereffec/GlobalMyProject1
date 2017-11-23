@@ -1,6 +1,7 @@
 //פאיכ program.cpp
 #include "stdafx.h"
 #include <iostream> 
+#include "funcs.h"
 using namespace std;
 double MySum(double a, double b)
 { 
